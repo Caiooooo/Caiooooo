@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Caiooooo/Caiooooo">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=Caiooooo" alt="page views" />
   </a>
   <a href="https://jacobcolvin.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
