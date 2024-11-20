@@ -23,15 +23,14 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/Caiooooo/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🏢 &nbsp;I'm currently working as **[Quant trader]**
+- 💬 &nbsp;I like to talk about **develop** and **games**
+- 📖 &nbsp;Learn more about my projects on my **[blog](buttonwood.cn)**
+- 📫 &nbsp;Ask me anything on my **[issues page][issues page]**
+- 💻 &nbsp;Connect with me on **[WeChat](https://caiooooo.github.io/www/aboutUs.html)**
 
 <br>
 
@@ -41,11 +40,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="text-align: center;">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Go
+      <br>&nbsp;Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -96,34 +95,8 @@
 
 > Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://buttonwood.com/ "My Blog"
+[84.51°]: https://github.com/8451
+[issues page]: https://github.com/MacroPower/MacroPower/issues
+[linkedin]: https://www.linkedin.com/in/colvinjm
+[homelab]: https://github.com/MacroPower/homelab
+[blog]: https://buttonwood.com/
