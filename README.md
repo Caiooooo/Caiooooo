@@ -28,7 +28,7 @@
 
 - 🏢 &nbsp;I'm currently working as **[Quant trader]**
 - 💬 &nbsp;I like to talk about **develop** and **games**
-- 📖 &nbsp;Learn more about my projects on my **[blog](buttonwood.cn)**
+- 📖 &nbsp;Learn more about my projects on my **[blog](https://buttonwood.cn)**
 - 📫 &nbsp;Ask me anything on my **[issues page][issues page]**
 - 💻 &nbsp;Connect with me on **[WeChat](https://caiooooo.github.io/www/aboutUs.html)**
 
