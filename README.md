@@ -42,9 +42,9 @@
   <tr>
     <td align="center" width="96" style="text-align: center;">
       <a href="#macropower-tech">
-        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
+        <img src="./img/rust.png" width="48" height="48" alt="Rust" />
       </a>
-      <br>&nbsp;Rust
+      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -54,15 +54,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/ffmpeg.png" width="48" height="48" alt="FFmpeg" />
       </a>
-      <br>Jsonnet
+      <br>FFmpeg
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>TypeScript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -78,9 +78,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/ubuntu.jpg" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Debian
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
