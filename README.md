@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96" style="text-align: center;">
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/rust-original.svg" width="48" height="48" alt="Rust" />
       </a>
