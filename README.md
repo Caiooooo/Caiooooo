@@ -1,24 +1,23 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Caiooooo</h1>
-<h3 align="left">I do rust dev things</h3>
 
 <p align="left">
-  <a href="https://github.com/Caiooooo/Caiooooo">
-    <img src="https://komarev.com/ghpvc/?username=Caiooooo" alt="page views" />
+  <a href="https://www.rust-lang.org/">
+    <img alt="Rust-dev" src="https://img.shields.io/badge/Rust-grey?style=flat&logo=rust&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Tether" src="https://img.shields.io/badge/Tether-grey?&logo=tether&logoColor=white">
   </a>
   <a href="https://buttonwood.cn">
     <img alt="Website" src="https://img.shields.io/website?url=https://buttonwood.cn">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
+  <a href="https://space.bilibili.com/Buttonwood_">
+    <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Buttonwood__-brightgreen?style=flat&logo=bilibili&logoColor=blue">
   </a>
   <a href="https://github.com/Caiooooo?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Caiooooo?style=flat&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  <a href="https://github.com/Caiooooo/Caiooooo">
+    <img src="https://komarev.com/ghpvc/?username=Caiooooo" alt="page views" />
   </a>
 </p>
 
@@ -26,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/Caiooooo/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- 🏢 &nbsp;I'm currently working as **[Quant trader]**
+- 🏢 &nbsp;I'm currently working as **Quant trader**
 - 💬 &nbsp;I like to talk about **develop** and **games**
 - 📖 &nbsp;Learn more about my projects on my **[blog](https://buttonwood.cn)**
 - 📫 &nbsp;Ask me anything on my **[issues page][issues page]**
